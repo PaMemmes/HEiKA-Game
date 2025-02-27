@@ -1,0 +1,581 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Dialog xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Themen>
+    <Thema>
+      <Titel>Begrüßung und Einverständnis</Titel>
+      <Fragen>
+        <Frage>
+          <ID>0</ID>
+          <Text>
+						Schönen guten Tag. Mein Name ist Jacquline Kunzmann und ich bin die diensthabende Ärztin. Ich würde gerne das Aufnahmegespräch mit Ihnen durchführen. Sind Sie damit einverstanden?
+					</Text>
+          <Optional>false</Optional>
+          <Next>
+						1
+					</Next>
+          <Antworten>
+            <Antwort>
+              <AntwortText>
+								Ja
+							</AntwortText>
+              <Next>1</Next>
+            </Antwort>
+            <Antwort>
+              <AntwortText>
+								Nein
+							</AntwortText>
+              <Next>Abbruch</Next>
+            </Antwort>
+          </Antworten>
+        </Frage>
+        <Frage>
+          <ID>1</ID>
+          <Text>
+						Ich stelle Ihnen ein paar Fragen zu Ihrer Person und dann kommen wir zu Ihren aktuellen Beschwerden.
+					</Text>
+          <Optional>true</Optional>
+          <Next>
+						2
+					</Next>
+          <Antworten />
+        </Frage>
+      </Fragen>
+    </Thema>
+    <Thema>
+      <Titel>Primäre Körpermerkmale</Titel>
+      <Fragen>
+        <Frage>
+          <ID>0</ID>
+          <Text>
+						Bitte nennen Sie mir Ihren Vor- und Nachname.
+					</Text>
+          <Optional>false</Optional>
+          <Next>
+						1
+					</Next>
+          <Antworten />
+        </Frage>
+        <Frage>
+          <ID>1</ID>
+          <Text>
+						Wann wurden Sie geboren?
+					</Text>
+          <Optional>false</Optional>
+          <Next>
+						2
+					</Next>
+          <Antworten />
+        </Frage>
+        <Frage>
+          <ID>2</ID>
+          <Text>
+						Wie viel wiegen Sie zur Zeit?
+					</Text>
+          <Optional>false</Optional>
+          <Next>
+						3
+					</Next>
+          <Antworten />
+        </Frage>
+        <Frage>
+          <ID>3</ID>
+          <Text>
+						Haben Sie in letzter Zeit eine unerklärliche Gewichtsveränderung bemerkt?
+					</Text>
+          <Optional>false</Optional>
+          <Next>
+						4
+					</Next>
+          <Antworten />
+        </Frage>
+        <Frage>
+          <ID>4</ID>
+          <Text>
+						Wie groß sind Sie?
+					</Text>
+          <Optional>false</Optional>
+          <Next>
+						5
+					</Next>
+          <Antworten />
+        </Frage>
+        <Frage>
+          <ID>5</ID>
+          <Text>
+						Sind Sie links- oder rechtshändig?
+					</Text>
+          <Optional>false</Optional>
+          <Next>
+						6
+					</Next>
+          <Antworten />
+        </Frage>
+        <Frage>
+          <ID>6</ID>
+          <Text>
+						Wissen Sie Ihre Blutgruppe?
+					</Text>
+          <Optional>false</Optional>
+          <Next>
+						7
+					</Next>
+          <Antworten />
+        </Frage>
+        <Frage>
+          <ID>7</ID>
+          <Text>
+						Haben Sie Veränderungen bei Ihrem Blutdruck festgestellt?
+					</Text>
+          <Optional>false</Optional>
+          <Next>
+						8
+					</Next>
+          <Antworten />
+        </Frage>
+        <Frage>
+          <ID>8</ID>
+          <Text>
+						Haben Sie eigene Zähne, Zahnimplantate, Zahnersatz oder eine Zahnspange?
+					</Text>
+          <Optional>false</Optional>
+          <Next>
+						9
+					</Next>
+          <Antworten />
+        </Frage>
+        <Frage>
+          <ID>9</ID>
+          <Text>
+						Wie ist Ihre Verdauung? Haben Sie in letzter Zeit Magen-Darm-Beschwerden wie Verstopfung, Durchfall oder Blähungen bemerkt?
+					</Text>
+          <Optional>false</Optional>
+          <Next>
+						10
+					</Next>
+          <Antworten />
+        </Frage>
+        <Frage>
+          <ID>10</ID>
+          <Text>
+						Leiden Sie unter Wassereinlagerungen, vorallem in den Beinen oder Knöcheln?
+					</Text>
+          <Optional>false</Optional>
+          <Next>
+						11
+					</Next>
+          <Antworten />
+        </Frage>
+        <Frage>
+          <ID>11</ID>
+          <Text>
+            Bei wem sind Sie in hausärztlicher Behandlung?
+					</Text>
+          <Optional>false</Optional>
+          <Antworten />
+        </Frage>
+      </Fragen>
+    </Thema>
+    <Thema>
+      <Titel>Persönliche Lebensumstände</Titel>
+      <Fragen>
+        <Frage>
+          <ID>1</ID>
+          <Text>
+						Welchen Beruf üben Sie aus?
+					</Text>
+          <Optional>false</Optional>
+          <Next>
+						2
+					</Next>
+          <Antworten />
+        </Frage>
+        <Frage>
+          <ID>2</ID>
+          <Text>
+						Üben Sie regelmäßig einen bestimmten Sport aus? Falls ja, bitte nennen Sie die Sportart.
+					</Text>
+          <Optional>false</Optional>
+          <Next>
+						3
+					</Next>
+          <Antworten />
+        </Frage>
+        <Frage>
+          <ID>3</ID>
+          <Text>
+						Wie ist Ihre allgemeine körperliche Fitness? Fühlen Sie sich oft erschöpft oder haben Sie Atemnot bei körperlicher Belastung?
+					</Text>
+          <Optional>false</Optional>
+          <Next>
+						4
+					</Next>
+          <Antworten />
+        </Frage>
+        <Frage>
+          <ID>4</ID>
+          <Text>
+						Wie oft trinken Sie Alkohol pro Woche?
+					</Text>
+          <Optional>false</Optional>
+          <Next>
+						5
+					</Next>
+          <Antworten />
+        </Frage>
+        <Frage>
+          <ID>5</ID>
+          <Text>
+						Welche Arten von Alkohol trinken Sie mehrmals wöchentlich?
+					</Text>
+          <Optional>false</Optional>
+          <Next>
+						6
+					</Next>
+          <Antworten />
+        </Frage>
+        <Frage>
+          <ID>6</ID>
+          <Text>
+						Rauchen Sie? Falls ja, geben Sie bitte an, wie viel Sie pro Tag rauchen.
+					</Text>
+          <Optional>false</Optional>
+          <Next>
+						7
+					</Next>
+          <Antworten />
+        </Frage>
+        <Frage>
+          <ID>7</ID>
+          <Text>
+						Seit wie vielen Jahren rauchen Sie?
+					</Text>
+          <Optional>false</Optional>
+          <Next>
+						8
+					</Next>
+          <Antworten />
+        </Frage>
+        <Frage>
+          <ID>8</ID>
+          <Text>
+						Nehmen Sie Drogen zu sich? Falls ja, geben Sie bitte an, wie oft.
+					</Text>
+          <Optional>false</Optional>
+          <Next>
+						9
+					</Next>
+          <Antworten />
+        </Frage>
+        <Frage>
+          <ID>9</ID>
+          <Text>
+						Wie sieht Ihre tägliche Ernährung aus? Achten Sie auf bestimmte Diäten oder Ernährungsformen?
+					</Text>
+          <Optional>false</Optional>
+          <Next>
+						10
+					</Next>
+          <Antworten />
+        </Frage>
+        <Frage>
+          <ID>10</ID>
+          <Text>
+						Wie viele Stunden schlafen Sie durchschnittlich pro Nacht?
+					</Text>
+          <Optional>false</Optional>
+          <Next>
+						11
+					</Next>
+          <Antworten />
+        </Frage>
+        <Frage>
+          <ID>11</ID>
+          <Text>
+            Haben Sie Schwierigkeiten beim Einschlafen oder Durchschlafen?
+					</Text>
+          <Optional>false</Optional>
+          <Next>
+						12
+					</Next>
+          <Antworten />
+        </Frage>
+        <Frage>
+          <ID>12</ID>
+          <Text>
+            Leben Sie alleine oder mit Familie/ Partner/ Partnerin?
+					</Text>
+          <Optional>false</Optional>
+          <Antworten />
+        </Frage>
+      </Fragen>
+    </Thema>
+    <Thema>
+      <Titel>Chronische oder Akute Schmerzen</Titel>
+      <Fragen>
+        <Frage>
+          <ID>1</ID>
+          <Text>
+						Was führt Sie heute zu uns? Haben Sie Schmerzen/ Beschwerden?
+					</Text>
+          <Optional>false</Optional>
+          <Next>
+						2
+					</Next>
+          <Antworten />
+        </Frage>
+        <Frage>
+          <ID>2</ID>
+          <Text>
+						Seit wann bestehen diese Schmerzen?
+					</Text>
+          <Optional>false</Optional>
+          <Next>
+						3
+					</Next>
+          <Antworten />
+        </Frage>
+        <Frage>
+          <ID>3</ID>
+          <Text>
+						An welcher Körperstelle bestehen die Schmerzen?
+					</Text>
+          <Optional>false</Optional>
+          <Next>
+						4
+					</Next>
+          <Antworten />
+        </Frage>
+        <Frage>
+          <ID>4</ID>
+          <Text>
+						Wie lange halten die Schmerzen an?
+					</Text>
+          <Optional>false</Optional>
+          <Next>
+						5
+					</Next>
+          <Antworten />
+        </Frage>
+        <Frage>
+          <ID>5</ID>
+          <Text>
+						Wie oft treten die Schmerzen auf?
+					</Text>
+          <Optional>false</Optional>
+          <Next>
+						6
+					</Next>
+          <Antworten />
+        </Frage>
+        <Frage>
+          <ID>6</ID>
+          <Text>
+						Wie würden Sie den Schmerz beschreiben? Dumpf, drückend, brechend?
+					</Text>
+          <Optional>false</Optional>
+          <Next>
+						7
+					</Next>
+          <Antworten />
+        </Frage>
+        <Frage>
+          <ID>7</ID>
+          <Text>
+						Wenn wir uns eine Schmerzskala vorstellen, wobei 1 ganz leichter Schmerz und 10 sehr, sehr starker Schmerz entspricht.  Wo würden Sie die Schmerzen auf dieser Skala einstufen?
+					</Text>
+          <Optional>false</Optional>
+          <Next>
+						8
+					</Next>
+          <Antworten />
+        </Frage>
+        <Frage>
+          <ID>8</ID>
+          <Text>
+						Gibt es etwas was die Schmerzen stärkt oder lindert?
+					</Text>
+          <Optional>false</Optional>
+          <Next>
+						9
+					</Next>
+          <Antworten />
+        </Frage>
+        <Frage>
+          <ID>9</ID>
+          <Text>
+						Haben Sie einen Auslöser für die Schmerzen gefühlt, als Sie sich körperlich betätigt haben?
+					</Text>
+          <Optional>false</Optional>
+          <Next>
+						10
+					</Next>
+          <Antworten />
+        </Frage>
+        <Frage>
+          <ID>10</ID>
+          <Text>
+						Wann haben die Schmerzen angefangen?
+					</Text>
+          <Optional>false</Optional>
+          <Next>
+						11
+					</Next>
+          <Antworten />
+        </Frage>
+        <Frage>
+          <ID>11</ID>
+          <Text>
+            Haben Sie Medikamente gegen die Schmerzen eingenommen?
+					</Text>
+          <Optional>false</Optional>
+          <Next>
+						12
+					</Next>
+          <Antworten />
+        </Frage>
+        <Frage>
+          <ID>12</ID>
+          <Text>
+            Strahlen die Schmerzen in eine andere Region aus?
+					</Text>
+          <Optional>false</Optional>
+          <Antworten />
+        </Frage>
+      </Fragen>
+    </Thema>
+    <Thema>
+      <Titel>Vorgeschichte</Titel>
+      <Fragen>
+        <Frage>
+          <ID>1</ID>
+          <Text>
+						Besteht eine körperliche Beeinträchtigung?
+					</Text>
+          <Optional>false</Optional>
+          <Next>
+						2
+					</Next>
+          <Antworten />
+        </Frage>
+        <Frage>
+          <ID>2</ID>
+          <Text>
+						Besteht bei Ihnen eine Allergie? Falls ja, nennen Sie mir bitte an welcher Allergie beziehungsweise an welchen Allergien Sie leiden.
+					</Text>
+          <Optional>false</Optional>
+          <Next>
+						3
+					</Next>
+          <Antworten />
+        </Frage>
+        <Frage>
+          <ID>3</ID>
+          <Text>
+						Besteht bei Ihnen eine Unverträglichkeit oder Überempfindlichkeit auf Metalle? Falls ja, nennen Sie mir bitte die betreffenden Metalle.
+					</Text>
+          <Optional>false</Optional>
+          <Next>
+						4
+					</Next>
+          <Antworten />
+        </Frage>
+        <Frage>
+          <ID>4</ID>
+          <Text>
+						Besteht derzeit oder bestand in den letzten sechs Monaten eine Entzündung? Falls ja, bitte erläutern Sie, wo diese Entzündung auftrat.
+					</Text>
+          <Optional>false</Optional>
+          <Next>
+						5
+					</Next>
+          <Antworten />
+        </Frage>
+        <Frage>
+          <ID>5</ID>
+          <Text>
+						Neigen Sie zu Schwellungen an den Armen oder Beinen?
+					</Text>
+          <Optional>false</Optional>
+          <Next>
+						6
+					</Next>
+          <Antworten />
+        </Frage>
+        <Frage>
+          <ID>6</ID>
+          <Text>
+						Gibt oder gab es in der Blutsverwandschaft Erkrankungen oder Anzeichen von Erkrankungen? Falls ja, welche?
+					</Text>
+          <Optional>false</Optional>
+          <Next>
+						7
+					</Next>
+          <Antworten />
+        </Frage>
+        <Frage>
+          <ID>7</ID>
+          <Text>
+						Hatten Sie in der Vergangenheit schwere Erkrankungen, z.B. Herzkrankheiten, Diabetes, Krebs?
+					</Text>
+          <Optional>false</Optional>
+          <Next>
+						8
+					</Next>
+          <Antworten />
+        </Frage>
+        <Frage>
+          <ID>8</ID>
+          <Text>
+						Wurden bei Ihnen Operationen durchgeführt? Wenn ja, welche und wann?
+					</Text>
+          <Optional>false</Optional>
+          <Next>
+						9
+					</Next>
+          <Antworten />
+        </Frage>
+        <Frage>
+          <ID>9</ID>
+          <Text>
+						Haben Sie bekannte chronische Erkrankungen, z.B. Asthma, Bluthochdruck, chronische Schmerzen?
+					</Text>
+          <Optional>false</Optional>
+          <Next>
+						10
+					</Next>
+          <Antworten />
+        </Frage>
+        <Frage>
+          <ID>10</ID>
+          <Text>
+						Gab es in Ihrer Vergangenheit Krankenhausaufenthalte? Wenn ja, aus welchem Grund und wann?
+					</Text>
+          <Optional>false</Optional>
+          <Next>
+						11
+					</Next>
+          <Antworten />
+        </Frage>
+        <Frage>
+          <ID>11</ID>
+          <Text>
+            Haben Sie in der Vergangenheit regelmäßig Medikamente eingenommen oder nehmen Sie Medikamte ein?
+					</Text>
+          <Optional>false</Optional>
+          <Next>
+						12
+					</Next>
+          <Antworten />
+        </Frage>
+        <Frage>
+          <ID>12</ID>
+          <Text>
+            Hatten Sie in der Vergangenheit psychische Erkrankungen oder waren Sie in psychotherapeutischer Behandlung?
+					</Text>
+          <Optional>false</Optional>
+          <Antworten />
+        </Frage>
+      </Fragen>
+    </Thema>
+  </Themen>
+</Dialog>

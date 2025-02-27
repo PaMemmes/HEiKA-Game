@@ -1,0 +1,81 @@
+Started Log at 22:38:16
+Started Log at 22:38:18
+Started Log at 23:04:59
+Started Log at 23:04:59
+11:05:07 PM [Niles]: Sch?nen guten Tag. Mein Name ist Jacquline Kunzmann und ich bin die diensthabende ?rztin. Ich w?rde gerne das Aufnahmegespr?ch mit Ihnen durchf?hren. Sind Sie damit einverstanden?
+11:05:57 PM [bhavana]: 
+								Ja
+							
+Started Log at 00:06:57
+12:07:00 AM [bhavana]: Sch?nen guten Tag. Mein Name ist Jacquline Kunzmann und ich bin die diensthabende ?rztin. Ich w?rde gerne das Aufnahmegespr?ch mit Ihnen durchf?hren. Sind Sie damit einverstanden?
+12:07:14 AM [bhavana]: Sch?nen guten Tag. Mein Name ist Jacquline Kunzmann und ich bin die diensthabende ?rztin. Ich w?rde gerne das Aufnahmegespr?ch mit Ihnen durchf?hren. Sind Sie damit einverstanden?
+Started Log at 00:07:45
+Started Log at 00:08:41
+Started Log at 00:08:41
+12:08:52 AM [Niles]: Sch?nen guten Tag. Mein Name ist Jacquline Kunzmann und ich bin die diensthabende ?rztin. Ich w?rde gerne das Aufnahmegespr?ch mit Ihnen durchf?hren. Sind Sie damit einverstanden?
+Started Log at 00:31:11
+Started Log at 01:02:42
+Started Log at 01:02:42
+Started Log at 02:29:37
+Started Log at 02:29:37
+02:29:47 AM [Nilesh]: Sch?nen guten Tag. Mein Name ist Jacquline Kunzmann und ich bin die diensthabende ?rztin. Ich w?rde gerne das Aufnahmegespr?ch mit Ihnen durchf?hren. Sind Sie damit einverstanden?
+02:29:56 AM [bhavana]: 
+								Ja
+							
+02:29:58 AM [Nilesh]: Ich stelle Ihnen ein paar Fragen zu Ihrer Person und dann kommen wir zu Ihren aktuellen Beschwerden.
+Started Log at 18:40:01
+Started Log at 18:40:02
+06:41:22 PM [Nilesh]: Sch?nen guten Tag. Mein Name ist Jacquline Kunzmann und ich bin die diensthabende ?rztin. Ich w?rde gerne das Aufnahmegespr?ch mit Ihnen durchf?hren. Sind Sie damit einverstanden?
+06:41:59 PM [Pascal]: 
+								Ja
+							
+06:42:01 PM [Nilesh]: Ich stelle Ihnen ein paar Fragen zu Ihrer Person und dann kommen wir zu Ihren aktuellen Beschwerden.
+06:42:20 PM [Nilesh]: Welchen Beruf ?ben Sie aus?
+06:42:50 PM [Pascal]: dd
+06:43:03 PM [Nilesh]: ?ben Sie regelm??ig einen bestimmten Sport aus? Falls ja, bitte nennen Sie die Sportart.
+Started Log at 18:45:52
+Started Log at 18:45:52
+06:46:04 PM [Nilesh]: Welchen Beruf ?ben Sie aus?
+06:46:18 PM [Pascal]: Hallo
+06:46:19 PM [Nilesh]: ?ben Sie regelm??ig einen bestimmten Sport aus? Falls ja, bitte nennen Sie die Sportart.
+06:46:23 PM [Pascal]: gg
+Started Log at 17:32:42
+Started Log at 17:32:42
+05:33:20 PM [Nilesh]: Sch?nen guten Tag. Mein Name ist Jacquline Kunzmann und ich bin die diensthabende ?rztin. Ich w?rde gerne das Aufnahmegespr?ch mit Ihnen durchf?hren. Sind Sie damit einverstanden?
+05:33:26 PM [pascal]: 
+								Ja
+							
+05:33:28 PM [Nilesh]: Ich stelle Ihnen ein paar Fragen zu Ihrer Person und dann kommen wir zu Ihren aktuellen Beschwerden.
+05:33:57 PM [pascal]: Ja
+05:35:09 PM [Nilesh]: Bitte nennen Sie mir Ihren Vor- und Nachname.
+05:35:10 PM [Nilesh]: Wann wurden Sie geboren?
+05:35:11 PM [Nilesh]: Wie viel wiegen Sie zur Zeit?
+05:35:12 PM [Nilesh]: Haben Sie in letzter Zeit eine unerkl?rliche Gewichtsver?nderung bemerkt?
+05:35:12 PM [Nilesh]: Wie gro? sind Sie?
+05:35:13 PM [Nilesh]: Sind Sie links- oder rechtsh?ndig?
+05:35:13 PM [Nilesh]: Wissen Sie Ihre Blutgruppe?
+05:35:15 PM [Nilesh]: Haben Sie Ver?nderungen bei Ihrem Blutdruck festgestellt?
+05:35:16 PM [Nilesh]: Haben Sie eigene Z?hne, Zahnimplantate, Zahnersatz oder eine Zahnspange?
+05:35:18 PM [Nilesh]: Haben Sie Ver?nderungen bei Ihrem Blutdruck festgestellt?
+05:35:18 PM [Nilesh]: Haben Sie eigene Z?hne, Zahnimplantate, Zahnersatz oder eine Zahnspange?
+05:35:19 PM [Nilesh]: Haben Sie eigene Z?hne, Zahnimplantate, Zahnersatz oder eine Zahnspange?
+05:35:20 PM [Nilesh]: Wie ist Ihre Verdauung? Haben Sie in letzter Zeit Magen-Darm-Beschwerden wie Verstopfung, Durchfall oder Bl?hungen bemerkt?
+05:35:23 PM [Nilesh]: Leiden Sie unter Wassereinlagerungen, vorallem in den Beinen oder Kn?cheln?
+05:35:24 PM [Nilesh]: Bei wem sind Sie in haus?rztlicher Behandlung?
+Started Log at 16:05:10
+Started Log at 16:05:11
+04:05:53 PM [pascal]: Bitte nennen Sie mir Ihren Vor- und Nachname.
+04:06:00 PM [pascal]: Wann wurden Sie geboren?
+Started Log at 16:15:35
+Started Log at 16:15:36
+Started Log at 16:16:47
+Started Log at 16:16:48
+04:16:59 PM [Nilesh]: Bitte nennen Sie mir Ihren Vor- und Nachname.
+04:17:06 PM [Nilesh]: Wann wurden Sie geboren?
+Started Log at 17:00:59
+05:01:06 PM [Pascal]: Bitte nennen Sie mir Ihren Vor- und Nachname.
+Started Log at 17:02:31
+Started Log at 17:04:13
+Started Log at 17:04:13
+05:04:20 PM [Pascal]: Bitte nennen Sie mir Ihren Vor- und Nachname.
+05:04:29 PM [Pascal]: Wann wurden Sie geboren?
